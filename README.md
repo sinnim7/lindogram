@@ -17,8 +17,8 @@ Express + Prisma + React and React Native
 - [x] See user profile
 - [x] See My porfile
 - [x] See the full photo
-- [ ] Upload a photos
-- [ ] Edit the photo (Delete)
+- [x] Upload a photos
+- [x] Edit the photo (Delete)
 - [ ] See the feed
 - [ ] See room
 - [ ] See rooms
