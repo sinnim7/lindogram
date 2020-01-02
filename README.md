@@ -15,8 +15,8 @@ Express + Prisma + React and React Native
 - [x] Unfollow User
 - [x] Edit my profile
 - [x] See user profile
-- [ ] See My porfile
-- [ ] See the full photo
+- [x] See My porfile
+- [x] See the full photo
 - [ ] Upload a photos
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
