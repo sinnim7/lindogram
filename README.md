@@ -20,7 +20,7 @@ Express + Prisma + React and React Native
 - [x] Upload a photos
 - [x] Edit the photo (Delete)
 - [x] See the feed
-- [ ] See room
-- [ ] See rooms
 - [ ] Send private Message
+- [x] See rooms
+- [ ] See room
 - [ ] Receive Message (Realtime)
