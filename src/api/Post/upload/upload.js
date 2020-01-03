@@ -8,7 +8,7 @@ export default {
       const { caption, files } = args;
       const post = await prisma.createPost({
         caption,
-        user: { connect: { id: user.id } } // 해당 post 만든 user
+        user: { connect: { id: user.id } }
       });
       files.forEach(
         async file =>

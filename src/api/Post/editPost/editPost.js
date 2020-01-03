@@ -1,7 +1,7 @@
 import { prisma } from "../../../../generated/prisma-client";
 
-const EDIT = "EDIT";
 const DELETE = "DELETE";
+const EDIT = "EDIT";
 
 export default {
   Mutation: {
